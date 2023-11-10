@@ -16,7 +16,7 @@ The dataset used in this project is the "Adult" dataset from the UCI Machine Lea
 - Matplotlib
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/census-income-prediction.git`
+1. Clone the repository: `git clone https://github.com/13Gitanjali/census-income-prediction.git`
 2. Install the requirements: `pip install -r requirements.txt`
 
 ## Usage
